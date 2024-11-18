@@ -1,0 +1,23 @@
+[
+{
+    "name":"Balaji",
+    "age":22,
+    "employed":false
+},
+{
+    "name":"Vinod",
+    "age":54,
+    "employed":true
+},
+{
+    "name":"Sarath",
+    "age":22,
+    "employed":true
+},
+{
+    "name":"Hrishi",
+    "age":22,
+    "employed":true
+    
+}
+]
